@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --color-primary: #16B8F3;
+  --foreground: #FAFAFA;
+}
+
+/*fill background with a grid of dots*/
+body {
+  color: var(--foreground);
+  background-image: radial-gradient(circle, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+  background-size: 15px 15px;
+}
+
