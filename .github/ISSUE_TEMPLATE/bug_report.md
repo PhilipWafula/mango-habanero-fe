@@ -1,5 +1,3 @@
-# Issue Report Template
-
 ## Description
 Please provide a detailed description of the issue. Include what you expected to happen and what actually happened.
 

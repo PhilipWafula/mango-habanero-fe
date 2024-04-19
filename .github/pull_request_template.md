@@ -1,5 +1,3 @@
-# Standard Pull Request Template
-
 ## Purpose
 Briefly describe the purpose of this pull request. What feature does it add or issue does it address?
 

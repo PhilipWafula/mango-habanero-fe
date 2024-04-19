@@ -1,5 +1,3 @@
-# Feature Request Template
-
 ## Feature Description
 Please provide a concise and clear description of the feature you propose. Explain the value this feature will add to the project, or the problem it will solve.
 

@@ -1,5 +1,3 @@
-# Refactor Pull Request Template
-
 ## Description
 Please provide a clear and concise description of the refactoring changes you have made. Explain why these changes are necessary and how they improve the codebase.
 
