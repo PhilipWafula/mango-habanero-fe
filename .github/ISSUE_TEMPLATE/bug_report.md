@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a bug report.
+title: "[DATE]: [BUG]"
+labels: bug
+assignees: 'PhilipWafula'
+
+---
+
 ## Description
 Please provide a detailed description of the issue. Include what you expected to happen and what actually happened.
 
