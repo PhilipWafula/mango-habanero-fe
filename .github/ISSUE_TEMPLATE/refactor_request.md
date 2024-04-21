@@ -1,3 +1,12 @@
+---
+name: Refactor request
+about: Suggest reorganization of the code base to streamline some functionality.
+title: "[DATE]: [REFACTOR]"
+labels: refactor
+assignees: 'PhilipWafula'
+
+---
+
 ## Description
 Please provide a clear and concise description of the refactoring changes you have made. Explain why these changes are necessary and how they improve the codebase.
 
