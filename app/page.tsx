@@ -5,12 +5,12 @@ export default function Home() {
         {
             label: 'Github',
             name: 'Philip Wafula',
-            url: 'https://github.com/PhilipWafula',
+            url: 'https://github.com/mango-habanero',
         },
         {
             label: 'LinkedIn',
             name: 'Philip Wafula',
-            url: 'https://www.linkedin.com/in/philip-w-304664116/',
+            url: 'https://linkedin.com/in/philipwafula',
         },
     ];
     const technologies = [
